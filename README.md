@@ -1,2 +1,5 @@
-# Automação-tiny-qive-wp
+Projeto de Automação.
 
+A função deste script é automatizar a abertura e a preparação dos sistemas utilizados diariamente nas atividades da empresa. Ao ser executado, o programa acessa automaticamente o Olist Tiny (ERP), incluindo suas três abas principais (Produtos, Notas de Entrada e Ordem de Serviço), além do Qive (Sistema de Automação de Pagamentos) e do WhatsApp Web.
+
+Além da abertura dos sistemas, o script realiza o processo de autenticação de forma automática, utilizando as credenciais previamente configuradas para acesso ao Olist Tiny e ao Qive. Dessa forma, todas as plataformas são iniciadas já autenticadas, carregadas e prontas para utilização.
